@@ -1,5 +1,6 @@
 package Math;
 import java.util.*;
+// does not work for large numbers
 public class countNoOfOnes {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
